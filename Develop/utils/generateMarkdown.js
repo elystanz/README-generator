@@ -67,7 +67,7 @@ Run this command to run tests:
 
   ${data.test}
 
-## Questionsåå
+## Questions?
 
 If you have questions about the repository/code, please feel free to contact me!
 ${data.email}
