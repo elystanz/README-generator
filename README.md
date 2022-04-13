@@ -13,7 +13,7 @@ Make a pull request if you'd like to add something, or have any ideas on how to 
 https://user-images.githubusercontent.com/95983252/163257182-8a93adb3-8b7f-40b4-9a68-396630624d4b.mp4
 
 ## License
-This repo is not protected under any license
+This repo is not protected under any license.
 
 ## Questions?
 Please feel free to reach out to me with any questions at elyse.stanziale83@gmail.com, or post an issue! 💜
