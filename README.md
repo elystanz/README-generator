@@ -10,7 +10,7 @@ This code requires the use of node modules. To install, run `npm i` or `npm inst
 Make a pull request if you'd like to add something, or have any ideas on how to improve this application.
 
 ## Usage
-(include gif/video here)
+https://user-images.githubusercontent.com/95983252/163257182-8a93adb3-8b7f-40b4-9a68-396630624d4b.mp4
 
 ## License
 This repo is not protected under any license
