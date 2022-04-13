@@ -49,7 +49,7 @@ ${renderLicenseLink(data.license)}
 
 Run this command to install dependecies required for this code:
 
-${data.installation}
+  ${data.installation}
 
 ## Usage
 
@@ -65,9 +65,9 @@ ${data.contributing}
 
 Run this command to run tests:
 
-${data.test}
+  ${data.test}
 
-## Questions
+## Questionsåå
 
 If you have questions about the repository/code, please feel free to contact me!
 ${data.email}
