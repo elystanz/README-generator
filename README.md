@@ -4,7 +4,7 @@
 This is a README generator that operates through the command line, asking questions to develop a README for your project without hassle!
 
 ## Installation
-This code requires the use of node modules. To install, run `npm i` or `npm install` to install node modules.
+This code requires the use of node modules. To install, run `npm i` or `npm install`
 
 ## Contributing
 Make a pull request if you'd like to add something, or have any ideas on how to improve this application.
